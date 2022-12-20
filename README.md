@@ -12,7 +12,7 @@ Used tools:
 **Celery (+Redis)**
 
 
-SECRET_KEY='django-insecure-7k595kjux6640w&=p*6+qa_#pc_69nobs+yp7%_irnqx&7-=$-'
+SECRET_KEY='django-insecure-%1o4ux43p%8bqo#(ons#nrmhebf2px^h*4gh%36-ey%*si!1w+'
 
 
 
